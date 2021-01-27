@@ -1,0 +1,12 @@
+{
+    "python.pythonPath": "/Library/Frameworks/Python.framework/Versions/3.7/bin/python3.7",
+    "sqltools.connections": [
+        {
+            "previewLimit": 50,
+            "driver": "SQLite",
+            "database": "${workspaceFolder:flaskCRUDapplication}/test.db",
+            "name": "test"
+        }
+    ],
+    "sqltools.useNodeRuntime": true
+}
